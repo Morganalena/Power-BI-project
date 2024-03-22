@@ -1,7 +1,5 @@
 # World Happiness Report 2023 - Power BI Project
 
-datasets were downloaded in https://worldhappiness.report/data/
-
 ## Overview
 This Power BI project aims to analyze and visualize some of the data from the World Happiness Report 2023.
 
